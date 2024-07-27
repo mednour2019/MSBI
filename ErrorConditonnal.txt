@@ -1,0 +1,3 @@
+CustomerCode,CustomerName,CustomerAmount,SalesDate,CountryName,StatesName,ProductName,SalesPersonName,UCustomerName,CustomerAmountCY,UCountryName,UStatesName,UProductName,USalesPersonName
+1006,Rahul,,3/2/2015,India,Maharastra,Toys,Khadak,,-100,,,,
+1007,Rohit,,4/5/2015,US,NewYork,Shoes,Raju,,0,,,,

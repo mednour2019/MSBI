@@ -1,0 +1,9 @@
+CustomerCode,CustomerName,CustomerAmount,SalesDate,CountryName,StatesName,ProductName,SalesPersonName,SalesAmount,Gender
+1001,Shiv,hundred,1/1/2010,India,Maharastra,Shoes,Shiv,203,1
+1002,Raju,200,2/2/2012,Nepal,Kathmandu,Shirts,Raju,115,0
+1003,ajay,400,1/1/2013,US,NewYork,Pants,Khadak,429,1
+1004,Khadak,500,3/3/2014,India,Punjab,Toys,Shaam,597,0
+1005,Sham,700,5/10/2014,Nepal,Kathmandu,Shirts,Shiv,228,1
+1006,Rahul,-100,3/2/2015,India,Maharastra,Toys,Khadak,314,1
+1007,Rohit,0,4/5/2015,US,NewYork,Shoes,Raju,215,0
+1008,Sanjay,1240,5/5/2015,India,Punjab,Toys,Shaam,426,

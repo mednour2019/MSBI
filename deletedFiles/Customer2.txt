@@ -1,0 +1,6 @@
+CustomerCode,CustomerName,CustomerAmount,SalesDate,CountryName,StatesName,ProductName,SalesPersonName
+1009,Jignesh,12,1/1/2010,India,Maharastra,Shirts,Raja
+1010,Raju,test,2/2/2012,Nepal,Kathmandu,Shirts,Raju
+1011,Rajnish,400,1/1/2013,US,NewYork,Toys,Khadak
+1012,Sukesh,500,3/3/2014,India,Punjab,Toys,Shaam
+1013,Pradip,700,5/10/2014,Nepal,Kathmandu,Shirts,Shiv
